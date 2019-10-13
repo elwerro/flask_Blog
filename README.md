@@ -1,2 +1,2 @@
 # flask_Blog
-copy of CoreyMShafer code
+This is a copy of CoreyMShafer's flask_Blog
